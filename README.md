@@ -4,7 +4,7 @@
 <p> Esse projeto tem como finalidade  desenvolver um servidor json  (json-server) com três ou mais rotas com quatro ou mais atributos. </p>
 
 
-##   ✔️ Técnicas e tecnologias utilizada:
+##   ✔️ Técnicas e tecnologias utilizadas: 
 - ``JavaScript``
 - ``Node``
 - ``Json``
