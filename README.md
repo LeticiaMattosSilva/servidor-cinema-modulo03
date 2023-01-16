@@ -1,5 +1,5 @@
 
-#  Servidor  json  de um catalogo de film
+#  Servidor  json  de um catalogo de filme
 
 <p> Esse projeto tem como finalidade  desenvolver um servidor json  (json-server) com três ou mais rotas com quatro ou mais atributos. </p>
 
